@@ -22,3 +22,4 @@ A task manager application built with Next.js and Tailwind CSS.
 - **Moving Tasks**: Drag tasks between stages on the Kanban board.
 - **Deleting Tasks**: Remove tasks permanently.
 
+# Task-Manager
